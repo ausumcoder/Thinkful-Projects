@@ -1,0 +1,10 @@
+section {
+	display: inline-block;
+	width:30%;
+	box-sizing: border-box;
+	vertical-align:top;
+}
+
+.mastheading,.mastheadpara {
+	text-align: center;
+}
