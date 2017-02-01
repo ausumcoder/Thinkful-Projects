@@ -1,0 +1,32 @@
+section {
+	display: inline-block;
+	width:30%;
+	box-sizing: border-box;
+	vertical-align:top;
+}
+
+div {
+	border: 1px solid black;
+}
+
+input{
+	width:30%;
+}
+
+img{
+	width:80px;
+	height:80px;
+}
+
+.highlight {
+    font-size: 1.3em;
+    display: inline;
+    padding: .2em .6em .3em;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+    background-color: #428bca;
+    color: white;
+}
